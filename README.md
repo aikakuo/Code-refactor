@@ -26,5 +26,5 @@ THEN I find a concise, descriptive title
 ```
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+https://aikakuo.github.io/code-refactor/
 
